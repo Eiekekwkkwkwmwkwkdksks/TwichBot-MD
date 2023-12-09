@@ -1,8 +1,8 @@
 # Código desarrollado por @gata_dios 
   
 #!/data/data/com.termux/files/usr/bin/bash 
-BOT_DIR="FantasyBot-MD"  
-BOT_REPO="https://github.com/Wilsmac/$BOT_DIR"
+BOT_DIR="TwitchBot-MD"  
+BOT_REPO="https://github.com/diegojadibot/TwitchBot-MD"
 DB_FILE="database.json"
  
 GREEN='\033[32m'
