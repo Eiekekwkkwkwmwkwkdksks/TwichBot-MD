@@ -1,7 +1,7 @@
 {
-  "name": "FantasyBot-MD", 
+  "name": "𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃", 
   "description": "Super Bot WhatsApp",
-  "repository": "https://github.com/Wilsmac/FantasyBot-MD",
+  "repository": "https://github.com/diegojadibot/TwichBot-MD",
   "logo": "https://i.imgur.com/8fK4h6F.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
