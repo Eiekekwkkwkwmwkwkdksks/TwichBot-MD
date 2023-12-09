@@ -17,7 +17,7 @@
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;𝐵𝑜𝑡𝑠+𝑂𝑓𝑖𝑐𝑎𝑙𝑒𝑠+𝑑𝑒" height="80px"></a> 
+<a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃++;𝐵𝑜𝑡𝑠+𝑂𝑓𝑖𝑐𝑎𝑙𝑒𝑠+𝑑𝑒" height="80px"></a> 
 </p>
 <a href="https://api.whatsapp.com/send/?phone=50250101139&text=.estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -28,14 +28,14 @@
 <p align="center"> 
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫=++;𝐶𝑂𝑁𝐹𝐼𝐺𝑈𝑅𝐴𝐶𝐼𝑂́𝑁+𝑃𝐴𝑅𝐴" height="100px"></a> 
+<a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃=++;𝐶𝑂𝑁𝐹𝐼𝐺𝑈𝑅𝐴𝐶𝐼𝑂́𝑁+𝑃𝐴𝑅𝐴" height="100px"></a> 
 
- <a href="https://github.com/Wilsmac/FantasyBot-MD/fork" target="black"><img src="https://img.shields.io/badge/♥️-clona_el_repositorio-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
+ <a href="https://github.com/diegojadibot/TwichBot-MD/fork" target="black"><img src="https://img.shields.io/badge/♥️-clona_el_repositorio-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
 
-<a href="https://github.com/Wilsmac/FantasyBot-MD/blob/master/config.js" target="black"><img src="https://img.shields.io/badge/♥️-Cambiar el owner del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
+<a href="https://github.com/diegojadibot/TwichBot-MD/blob/master/config.js" target="black"><img src="https://img.shields.io/badge/♥️-Cambiar el owner del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
   
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=replit++;activa+el+bot+en" height="100px"></a> 
+<a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=replit++;activa+el+bot+en" height="100px"></a> 
 </p>
 
 [![Run on Repl.it](https://repl.it/badge/github/Wilsmac/FantasyBot-MD)](https://repl.it/github/Wilsmac/FantasyBot-MD) 
