@@ -14,7 +14,7 @@ COMMENT
 echo -e "\033[01;93mPreparando instalación...\nPreparing installation...\n\033[0m"
 mp3_array=("install_automatic1.mp3" "install_automatic10.mp3" "install_automatic11.mp3" "install_automatic12.mp3")
 random_mp3=${mp3_array[$RANDOM % ${#mp3_array[@]}]}
-if wget -q https://github.com/Wilsmac/FantasyBot-MD/tree/main/musicSH/"$random_mp3"; then
+if wget -q https://github.com/diegojadibot/TwichBot-MD/tree/main/musicSH/"$random_mp3"; then
 echo -e "\033[01;32mDescarga exitosa. Reproduciendo sonido de intro...\nDownload successful. Playing intro sound...\n\033[0m"
 while true; do
 mpv --no-terminal "$random_mp3" &
@@ -167,7 +167,7 @@ git clone https://github.com/Wilsmac/FantasyBot-MD.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChanging to the repository directory!!\n\033[0m" 
-cd FantasyBot-MD
+cd 𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃
 
 echo -e "\e[36m
  █░▒█ █▀▀█ █▀▀▀ █▀▀█ ▀▀█▀▀ █▀▀▀         █░░▒█ █▀▀█ █▀▀█ █▄░▒█
@@ -204,7 +204,7 @@ v1="${b}\033[32m"
 b="\033[0m"
 
 menu() {
-	#FantasyBot-MD
+	#𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃
 	echo -e "${v1} MENÚ DE CONFIGURACIÓN"
 	printf "\n"
 	printf "${v1}[${b}01${v1}]${v} Visistar Grupo de Actualizaciones\n"
@@ -271,5 +271,5 @@ echo -e "\e[31m
 ┈┈┈┈┈┈◥◤┈┈┈┈┈┈\n\e[0m"
     
 sleep 15 && pkill mpv > /dev/null 2>&1 && sleep 2 && rm -f /data/data/com.termux/files/home/"$random_mp3" &
-echo -e "\033[01;32m\033[01mIniciando FantasyBot-MD by wilmer\n\033[0m"
+echo -e "\033[01;32m\033[01mIniciando 𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃 by diegl\n\033[0m"
 npm start
