@@ -184,7 +184,7 @@ global.exito = eg
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
 global.wm = "[♥︎𝐿] 𝑌 [☆D] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
-global.igfg = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
+global.igfg = "𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
