@@ -1,14 +1,14 @@
 var handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let pp = gataImg.getRandom()	
-const cat = `𝑊𝐼𝐿𝑀𝐸𝑅 𝑂𝐹𝐶🌹
-*Wa.me/50258115623*
+const cat = `Diego 𝑂𝐹𝐶🌹
+*Wa.me/573013114854*
 ༺═──────────────═༻
 𝐵𝑂𝑇 𝑂𝐹𝐶
-*wa.me/50250101139*
+*wa.me/573218138672*
 *༺═──────────────═༻*
 𝑴𝑰 𝑪𝑶𝑹𝑹𝑬𝑶
-*indefinido202@gmail.com*
+*argumedodie@gmail.com*
 ༺═──────────────═༻
  𝐴𝑆𝐼𝑆𝑇𝐸𝑁𝐶𝐼𝐴
 *${asistencia}*\n༺═──────────────═༻`
