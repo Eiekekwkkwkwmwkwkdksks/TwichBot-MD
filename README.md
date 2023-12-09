@@ -32,13 +32,13 @@
 
  <a href="https://github.com/diegojadibot/TwichBot-MD/fork" target="black"><img src="https://img.shields.io/badge/♥️-clona_el_repositorio-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
 
-<a href="https://github.com/diegojadibot/TwichBot-MD/blob/master/config.js" target="black"><img src="https://img.shields.io/badge/♥️-Cambiar el owner del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
+<a href="https://github.com/diegojadibot/TwitchBot-MD/blob/master/config.js" target="black"><img src="https://img.shields.io/badge/♥️-Cambiar el owner del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
   
 <p align="center"> 
 <a href="https://github.com/diegojadibot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=replit++;activa+el+bot+en" height="100px"></a> 
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/diegojadibot/TwichBot-MD)](https://repl.it/github/diegojadibot/TwichBot-MD) 
+[![Run on Repl.it](https://repl.it/badge/github/diegojadibot/TwitchBot-MD)](https://repl.it/github/diegojadibot/TwichBot-MD) 
 
 ## <h1>Instalación automática por termux</h1>
  
@@ -46,7 +46,7 @@
 termux-setup-storage
 ```  
 ```ts
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/TwichBot-MD/master/Fantasy.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/TwitchBot-MD/master/Fantasy.sh | bash
 ```
 
  <p align="center"> 
@@ -67,10 +67,10 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```
-git clone https://github.com/diegojadibot/TwichBot-MD.git
+git clone https://github.com/diegojadibot/TwitchBot-MD.git
 ```
 ```bash
-cd TwichBot-MD
+cd TwitchBot-MD
 ```
 ```
 yarn install
@@ -108,7 +108,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> rm -rf TwichSession
+> rm -rf TwitchSession
 > npm start
 ```
 
