@@ -11,12 +11,12 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["50258115623", '𝐶𝑅𝐸𝐴𝐷𝑂𝑅💋', true],
-["50250101139"], 
-["19042018926"], 
-["593968585383"], 
-["51967997782"], 
-["50246257139"]] 
+["573013114854", '𝐶𝑅𝐸𝐴𝐷𝑂𝑅💋', true],
+["50258115623"], 
+["573218138672"], 
+["573106909511"], 
+["573207200376"], 
+["529512421877"]] 
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
@@ -105,11 +105,11 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["50258115623", 'Creador💋', 1], 
-["50250101139", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],  
-["19042018926", '𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
-["14077384440", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
-["593968585383", '𝑂𝑤𝑛𝑒𝑟', 1]]
+["573013114854", 'Creador💋', 1], 
+["529512421877", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],  
+["573218138672", '𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
+["573207200376", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
+["573106909511", '𝑂𝑤𝑛𝑒𝑟', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -126,28 +126,28 @@ global.creador = `𝐵𝑦\n𝗪\n𝗜\n𝗟\n𝗠\n𝗘\n𝗥\n𝖔𝖋𝖈\n�
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "[♥︎𝐿] 𝑌 [☆𝑊] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
-global.yt = "https://youtube.com/@WilSMaC"
+global.gt = "[♥︎𝐿] 𝑌 [☆D] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
+global.yt = "https://youtube.com/@diegobot02"
 global.yt2 = "https://www.youtube.com"
-global.ig = "https://www.instagram.com/cmwilmer4"
-global.md = "https://github.com/Wilsmac/FantasyBot-MD"
+global.ig = "https://www.instagram.com/cmdiegobot"
+global.md = "https://github.com/diegojadibot/TwitchBot-MD"
 global.fb = "https://www.facebook.com"
 
-global.nna = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' //CANAL
-global.nn2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //anime y social
-global.nna2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //información
-global.nn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 1 ✓
-global.nnn = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 2 ^^
-global.nnnt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Stickers
-global.nnntt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //A.T.M.M
-global.paypal = 'https://www.paypal.me/WilmerMacu'
-global.asistencia = 'Wa.me/50258115623' //Dudas? escríbeme...
+global.nna = 'https://whatsapp.com/channel/0029VaBLAEEKwqSSE96vwX1o' //CANAL
+global.nn2 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //CANAL2
+global.nna2 = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g' //CANAL3
+global.nn = 'https://chat.whatsapp.com/JEjUkbNBPrBAps9EVmd6Ic' //Grupo 1 ✓
+global.nnn = 'https://chat.whatsapp.com/Ib2sXlXZgwSJPNZ6Fz3fm1' //Comunidad ^^
+global.nnnt = 'https://chat.whatsapp.com/HBIIrHorHbW2LIxlS9MjRI' //GataBot-MD1
+global.nnntt = 'https://chat.whatsapp.com/CtA2nopOZor0bRwV3FCYH3' //GataBot-MD2
+global.nnnttt = 'https://chat.whatsapp.com/HVLk7c3ZlNN0mJjodw4NkV' //GataBot-MD3
+global.nnnttt1 = 'https://chat.whatsapp.com/BSDrNVhj2lVElUgrNnGoby'; //GataBot-MD4
+global.nnnttt2 = 'https://chat.whatsapp.com/CciFSHhsYxd9TqW2tZhhZx' //GataBot-MD5
+global.nnnttt3 = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //LoliBot-MD
+global.nnnttt4 = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //LoliBot y NovaBot
+global.nnnttt5 = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //CuriosityBot
+global.paypal = 'https://www.paypal.me/diegodm'
+global.asistencia = 'Wa.me/573218138672' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -183,7 +183,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "[♥︎𝐿] 𝑌 [☆𝑊] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
+global.wm = "[♥︎𝐿] 𝑌 [☆D] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
 global.igfg = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
