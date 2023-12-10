@@ -117,7 +117,7 @@ global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasa
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
 global.pegatina = `┏━━━━━━°❀•° :°: °•❀°━━━━━━┓\n𝐁𝐎𝐓 𝐔𝐒𝐀𝐃𝐎: 𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃\n╔═════ °❀•°✮°•❀° ══════╗\n 𝑃𝑅𝑂𝑃𝐼𝐸𝑇𝐴𝑅𝐼𝑂(𝐀) 𝐃𝐢𝐞𝐠𝐨\n╚═════ °❀•°✮°•❀° ══════╝`
-global.packname = "𝐓𝐰𝐢t𝐜𝐡𝐁𝐨𝐭-𝐌𝐃"
+global.packname = "𝐓𝐰𝐢𝐜𝐡𝐁𝐨𝐭-𝐌𝐃"
 global.author = "Diego"
 global.creador = `𝐵𝑦\nD\n𝗜\nE\nG\nO\n𝖔𝖋𝖈\n😻`
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
