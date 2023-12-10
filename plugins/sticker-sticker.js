@@ -13,9 +13,9 @@ if (new Date - user.lastmiming < 10000) return await conn.reply(m.chat, `*ESPERA
     let q = m.quoted ? m.quoted : m
     let mime = (q.msg || q).mimetype || q.mediaType || ''
     if (/webp|image|video/g.test(mime)) {
-      if (/video/g.test(mime)) if ((q.msg || q).seconds > 11) return m.reply('『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵\n\n𝑬𝑳 𝑽𝑰𝑫𝑬𝑶 𝑵𝑶 𝑫𝑬𝑩𝑬 𝑫𝑼𝑹𝑨𝑹 𝑴𝑨𝑺 𝑫𝑬 *7* 𝑺𝑬𝑮𝑼𝑵𝑫𝑶𝑺')
+      if (/video/g.test(mime)) if ((q.msg || q).seconds > 11) return m.reply('『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵\n\n𝑬𝑳 𝑽𝑰𝑫𝑬𝑶 𝑵𝑶 𝑫𝑬𝑩𝑬 𝑫𝑼𝑹𝑨𝑹 𝑴𝑨𝑺 𝑫𝑬 *6* 𝑺𝑬𝑮𝑼𝑵𝑫𝑶𝑺')
       let img = await q.download?.()
-      if (!img) throw `*『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』*\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 .png ?𝑽𝑼𝑬𝑳𝑽𝑬𝑨 𝑨 𝑰𝑵𝑻𝑬𝑵𝑻𝑨𝑹𝑳𝑶!!*${usedPrefix + command}*_`
+      if (!img) throw `*『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』*\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 .png ?𝑽𝑼𝑬𝑳𝑽𝑬𝑨 𝑨 𝑰𝑵𝑻𝑬𝑵𝑻𝑨𝑹𝑳𝑶 Y Luego Usa Tecla .S!!*${usedPrefix + command}*_`
       let out
       try {
         stiker = await sticker(img, false, global.pegatina, global.creador)
