@@ -7,13 +7,7 @@ if (m.chat.endsWith('broadcast') || m.fromMe || m.isGroup) return
 let user = global.db.data.users[m.sender]
 
 if (new Date() - user.pc < 21600000) return
-await m.reply(`👋 Hola Gracias Por Escribirme ${nombre}!!
- *${saludo}*
-
-📅 Fecha: ${fecha}
-⏰ Hora: ${tiempo}
-
-☃️🎅Estoy Activo Durante: ${uptime}
+await m.reply(`👋 Hola Gracias Por Escribirme!!
 
 ⚠️ *Nota:* No Envies Spam Al Bot,Este Bot Está En desarrollo Asi Que No Se A Terminado Todavia Todo Del Bot Recuerda Si Envias Spam El Bot Te Bloqueará🐱 Gracias
 
